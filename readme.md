@@ -21,6 +21,22 @@ In order to train PPO network follow the below commands
 cd PPO
 python train.py
 ```
+
+## Plot graphs
+
+In order to plot DQN performance follow the below commands
+
+```
+cd DQN
+python plot.py
+```
+In order to plot PPO performance follow the below commands
+
+```
+cd PPO
+python plot.py
+```
+
 ## Plots
 
 DQN performance plot
